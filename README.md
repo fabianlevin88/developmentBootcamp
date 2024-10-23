@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web Development Bootcamp
 
 The course is taken from udemy and it's called **[The Web Developer Bootcamp 2024](https://www.udemy.com/course/the-web-developer-bootcamp/?couponCode=MTST7102224B2)**.
