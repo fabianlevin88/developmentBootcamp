@@ -1,0 +1,25 @@
+h2 {
+    font-family: Verdana;
+    color: white;
+    background-color: orangered;
+    border: black solid 3px;
+}
+
+h3 {
+    text-align: center;
+    width: 30%;
+    font-weight: normal;
+    text-decoration: #CC42F4 wavy 3px overline;
+    letter-spacing: 5px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+p {
+    line-height: 2;
+    font-family: Verdana;
+}
+
