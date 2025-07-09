@@ -1,0 +1,34 @@
+h1 {
+    background-color: #e28743;
+    border: 1px solid black;
+    width: 400px;
+    padding: 0 20px;
+}
+
+h2 {
+    background-color: #3bb0d3;
+    border: 1px solid #022a5e;
+    width: 440px;
+    padding: 0 50px;
+    box-sizing: border-box;
+}
+
+section#one h2:hover {
+    background-color: red;
+}
+
+section#two {
+    margin: 200px;
+}
+
+section#two h2:hover {
+    border: 10px #edcf99 dotted;
+}
+
+section#three h2:hover {
+    padding: 20px 20px;
+    background-color: #ea9f5c;
+    border-radius: 30px;
+    width: 200px;
+    height: 100px;
+}
